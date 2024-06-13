@@ -5,6 +5,7 @@
 </p>
 
 <!-- Turret Demo Video -->
+
 https://github.com/IlyasYao/TIL-AI-2024_freeicemilo/assets/27739101/4d3589f4-bc80-422f-8188-c0f88db130ef
 
 ## File Structure
@@ -35,12 +36,13 @@ This demo utilizes technologies like `Docker`, `Websocket`, and `RESTful API` to
 
 Before continuing, please note, `til-competition` is the local testing environment provided. It is only meant for demo purposes, NOT evaluating the models.
 
-1. Navigate to `ASR`, `NLP`, and `VLM`
+1. Ensure to create a `.env` with the same `env example` format
+2. Navigate to `ASR`, `NLP`, and `VLM`
 
     - Ensure the models are added inside (Upload of models are too large for GitHub)
     - For each `Manager.py`, ensure the models are connected correctly
 
-2. Using docker, navigate to `Final AI Codes` directory and have docker installed.
+3. Using docker, navigate to `Final AI Codes` directory and have docker installed.
 
     - To run: `docker compose up`
     - To restart: `docker compose down`
