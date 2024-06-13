@@ -2,8 +2,10 @@
 
 <p align="center">
     <img src="Photos/Team.jpg" style="width:600px;"/>
-    
 </p>
+
+<!-- Turret Demo Video -->
+https://github.com/IlyasYao/TIL-AI-2024_freeicemilo/assets/27739101/4d3589f4-bc80-422f-8188-c0f88db130ef
 
 ## File Structure
 
