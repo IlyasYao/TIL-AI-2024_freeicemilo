@@ -1,0 +1,7 @@
+transformers==4.31.0
+librosa==0.10.1
+fastapi
+accelerate
+uvicorn[standard]
+pandas==2.0.3
+torch>=1.7.0,!=1.12.0

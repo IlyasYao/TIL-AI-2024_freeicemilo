@@ -1,0 +1,8 @@
+TEAM_NAME = "freeicemilo"
+TEAM_TRACK = "novice"
+COMPETITION_SERVER_IP = "host.docker.internal"
+COMPETITION_SERVER_PORT = "8000"
+ROBOT_IP = "192.168.10.10"
+LOCAL_IP = "host.docker.internal"
+ROBOT_SN = "ABC123"
+USE_ROBOT = "false"
