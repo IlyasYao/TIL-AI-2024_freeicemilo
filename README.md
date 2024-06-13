@@ -25,13 +25,13 @@ In this repository, the codebase is divided into two segments:
 3. A good computer
     - Enough to train the models
 
-#### Final AI Codes (About)
+## Final AI Codes (About)
 
 This is the setup used to demo run locally. It is only meant for demo purposes, NOT evaluating the models.
 
 This demo utilizes technologies like `Docker`, `Websocket`, and `RESTful API` to integrate everything seamlessly.
 
-#### Final AI Codes (How to)
+### Final AI Codes (How to)
 
 Before continuing, please note, `til-competition` is the local testing environment provided. It is only meant for demo purposes, NOT evaluating the models.
 
@@ -53,6 +53,8 @@ Before continuing, please note, `til-competition` is the local testing environme
 4. Run the `til-main` container and wait for the connection to succeed
 5. The web browser and terminals should be responding correctly if successful
 
+https://github.com/IlyasYao/TIL-AI-2024_freeicemilo/assets/27739101/901edad0-ea11-45d7-b72a-47b616005ded
+
 **For individual local run:**
 
 1. `docker run` the desired AI image
@@ -71,7 +73,7 @@ docker ps
 docker kill <container_id>
 ```
 
-#### Final AI Codes (Each Image)
+## Final AI Codes (Each Image)
 
 There are 6 images:
 
@@ -91,9 +93,9 @@ There are 6 images:
     - RESTful API
 6. `competition` - The simulator environment
 
-#### Training Codes
+## Training Codes
 
-#### Additional References and Resources
+## Additional References and Resources
 
 1.  [BrainHack 2024 TIL-AI Guardian's Handbook](https://tribegroup.notion.site/BrainHack-2024-TIL-AI-Guardian-s-Handbook-c5d4ec3c3bd04b0db0329884c220791f) (Notion)
 2.  [Qualifiers Leaderboard](https://airtable.com/appeN9J5OcPmfLzgf/shraBC7z4ZCYss9LD) (Airtable)
