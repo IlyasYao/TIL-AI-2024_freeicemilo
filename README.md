@@ -1,5 +1,10 @@
 # TIL-AI-2024_freeicemilo
 
+<p align="center">
+    <img src="Photos/Team.jpg" style="width:600px;"/>
+    
+</p>
+
 ## File Structure
 
 In this repository, the codebase is divided into two segments:
@@ -38,13 +43,31 @@ Before continuing, please note, `til-competition` is the local testing environme
     - To run: `docker compose up`
     - To restart: `docker compose down`
 
-During local run:
+**During full local run:**
 
 1. Run in terminal `docker compose up` to create the image and run the containers
 2. In docker GUI, navigate to containers and ensure that every container is running, except `til-main`
 3. For `til-competition`, open `localhost:8000` on a web browser to initiate a websocket connection
 4. Run the `til-main` container and wait for the connection to succeed
 5. The web browser and terminals should be responding correctly if successful
+
+**For individual local run:**
+
+1. `docker run` the desired AI image
+2. Use the correct `test.py` file
+
+-   Docker commands
+
+    -   port_no refer to Dockerfile
+    -   task refer to asr/nlp/vlm
+    -   docker ps to get the container_id
+
+```bash
+docker build -t freeicemilo-<task> .
+docker run -p <port_no>:<port_no> -d freeicemilo-<task>
+docker ps
+docker kill <container_id>
+```
 
 #### Final AI Codes (Each Image)
 
