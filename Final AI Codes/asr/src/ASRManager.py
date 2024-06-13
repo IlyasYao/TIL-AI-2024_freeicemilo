@@ -6,7 +6,10 @@ from io import BytesIO
 class ASRManager:
     def __init__(self):
         # Initialize the model here
-        model_save_path = "whisper-small/model"
+
+        # model_save_path = "whisper-small/model"
+        model_save_path = "" # Add the path to the model here
+
         self.device = "cuda" if torch.cuda.is_available() else "cpu"
         self.processor = WhisperProcessor.from_pretrained(model_save_path)
         self.model = WhisperForConditionalGeneration.from_pretrained(model_save_path)

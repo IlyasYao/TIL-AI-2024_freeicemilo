@@ -19,7 +19,10 @@ text_to_num = {
 class NLPManager:
     def __init__(self):
         # Initialize the model here if necessary
-        model_save_path = "fine-tuned-model30000"
+
+        # model_save_path = "fine-tuned-model30000"
+        model_save_path = "" # Add the path to the model here
+
         self.device = "cuda" if torch.cuda.is_available() else "cpu"
         self.tokenizer = AutoTokenizer.from_pretrained(model_save_path)
         self.model = AutoModelForTokenClassification.from_pretrained(model_save_path)

@@ -12,12 +12,14 @@ class VLMManager:
         self.device = "cuda" if torch.cuda.is_available() else "cpu"
 
         # Load the RT-DETR model
-        self.rtdetr_model = RTDETR("model/rtdetr_0.856_0.828.pt").to(self.device)
+        # self.rtdetr_model = RTDETR("model/rtdetr_0.856_0.828.pt").to(self.device)
+        self.rtdetr_model = RTDETR("").to(self.device) # Add the path to the model here
         
         # Load the finetuned CLIP model
-        self.clip_model = VisionTextDualEncoderModel.from_pretrained("model/clip-base-32-finetune").to(self.device)
-        self.clip_processor = VisionTextDualEncoderProcessor.from_pretrained("model/clip-base-32-finetune")
-
+        # self.clip_model = VisionTextDualEncoderModel.from_pretrained("model/clip-base-32-finetune").to(self.device)
+        # self.clip_processor = VisionTextDualEncoderProcessor.from_pretrained("model/clip-base-32-finetune")
+        self.clip_model = VisionTextDualEncoderModel.from_pretrained("").to(self.device) # Add the path to the model here
+        self.clip_processor = VisionTextDualEncoderProcessor.from_pretrained("") # Add the path to the model here
         
     def preprocess_image(self, image_bytes):
         image = Image.open(BytesIO(image_bytes)).convert("RGB")
