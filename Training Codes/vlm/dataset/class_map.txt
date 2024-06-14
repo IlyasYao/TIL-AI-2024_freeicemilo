@@ -1,0 +1,126 @@
+black camouflage fighter jet: 0
+white and red light aircraft: 1
+black and yellow drone: 2
+green fighter plane: 3
+black and orange drone: 4
+yellow and black fighter plane: 5
+yellow commercial aircraft: 6
+white and red helicopter: 7
+yellow, red, and grey helicopter: 8
+red helicopter: 9
+grey and white light aircraft: 10
+black and white commercial aircraft: 11
+red and black drone: 12
+yellow and red light aircraft: 13
+green missile: 14
+blue commercial aircraft: 15
+green and brown camouflage fighter plane: 16
+black and white cargo aircraft: 17
+red light aircraft: 18
+white and orange commercial aircraft: 19
+yellow fighter plane: 20
+blue, yellow, and black helicopter: 21
+grey and green cargo aircraft: 22
+blue, yellow, and green fighter plane: 23
+white fighter jet: 24
+grey missile: 25
+blue and red commercial aircraft: 26
+grey commercial aircraft: 27
+blue and white commercial aircraft: 28
+white helicopter: 29
+blue helicopter: 30
+black helicopter: 31
+white and black cargo aircraft: 32
+white, black, and grey missile: 33
+white, red, and green fighter plane: 34
+grey and red missile: 35
+blue, yellow, and white cargo aircraft: 36
+green and yellow fighter plane: 37
+white and red missile: 38
+grey drone: 39
+grey and red commercial aircraft: 40
+black and white missile: 41
+grey fighter jet: 42
+black and yellow missile: 43
+yellow, red, and blue fighter plane: 44
+white cargo aircraft: 45
+green and brown camouflage helicopter: 46
+orange and black fighter jet: 47
+green and grey helicopter: 48
+blue and grey fighter jet: 49
+grey and red fighter jet: 50
+yellow helicopter: 51
+white and grey helicopter: 52
+yellow missile: 53
+grey and black fighter plane: 54
+white and black fighter plane: 55
+white and yellow commercial aircraft: 56
+white, blue, and red commercial aircraft: 57
+yellow fighter jet: 58
+red, white, and blue fighter jet: 59
+black fighter plane: 60
+grey fighter plane: 61
+red and white fighter plane: 62
+white drone: 63
+silver fighter plane: 64
+yellow, black, and red helicopter: 65
+green light aircraft: 66
+green and white fighter plane: 67
+grey camouflage fighter jet: 68
+black fighter jet: 69
+white and blue fighter plane: 70
+white missile: 71
+grey and yellow fighter plane: 72
+white and red commercial aircraft: 73
+green and brown camouflage fighter jet: 74
+white fighter plane: 75
+orange light aircraft: 76
+white and blue commercial aircraft: 77
+white light aircraft: 78
+red and white missile: 79
+grey cargo aircraft: 80
+blue and yellow fighter jet: 81
+blue and white helicopter: 82
+grey helicopter: 83
+blue and white missile: 84
+red and white helicopter: 85
+silver and blue fighter plane: 86
+white commercial aircraft: 87
+black and brown camouflage helicopter: 88
+red and white fighter jet: 89
+green and black missile: 90
+green helicopter: 91
+grey and white fighter plane: 92
+red fighter jet: 93
+blue and white light aircraft: 94
+blue and red light aircraft: 95
+green and black camouflage helicopter: 96
+white and orange light aircraft: 97
+black drone: 98
+grey, red, and blue commercial aircraft: 99
+blue and green fighter plane: 100
+black cargo aircraft: 101
+red fighter plane: 102
+blue and yellow helicopter: 103
+white and black helicopter: 104
+white and black light aircraft: 105
+white and black fighter jet: 106
+white and black drone: 107
+white and blue cargo aircraft: 108
+blue missile: 109
+yellow and green helicopter: 110
+red, white, and blue light aircraft: 111
+white and blue fighter jet: 112
+blue camouflage fighter jet: 113
+grey light aircraft: 114
+yellow light aircraft: 115
+grey and black helicopter: 116
+white and red fighter plane: 117
+white, black, and red drone: 118
+green camouflage helicopter: 119
+white and blue helicopter: 120
+red and grey missile: 121
+white, red, and blue commercial aircraft: 122
+white and blue light aircraft: 123
+red and white light aircraft: 124
+white and red fighter jet: 125
