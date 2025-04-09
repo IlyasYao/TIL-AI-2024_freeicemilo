@@ -99,8 +99,6 @@ There are 6 images:
 
 ## Additional References and Resources
 
-1.  [BrainHack 2024 TIL-AI Guardian's Handbook](https://tribegroup.notion.site/BrainHack-2024-TIL-AI-Guardian-s-Handbook-c5d4ec3c3bd04b0db0329884c220791f) (Notion)
-2.  [Qualifiers Leaderboard](https://airtable.com/appeN9J5OcPmfLzgf/shraBC7z4ZCYss9LD) (Airtable)
 3.  [Learning Resources & Workshops](https://drive.google.com/drive/folders/1JmeEwQZoqobPmUeSZWrvR5Inrw6NJ8Kr) (Google Drive)
 4.  [Learning Resources & Workshops](https://github.com/TIL-24/til-24-curriculum/) (GitHub)
 5.  [Vertex AIWorkbench Environment](https://console.cloud.google.com/vertex-ai/workbench/instances?project=dsta-angelhack) (GCP Vertex AI)
